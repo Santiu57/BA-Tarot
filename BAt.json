@@ -1,0 +1,15 @@
+{
+    "id": "BAt",
+    "name": "BA Tarot",
+    "display_name": "Blue Archive Tarot",
+    "author": [
+        "Santiu57"
+    ],
+    "description": "A Blue Archive tarot skin for Balatro. Artist: @shi0n_krbn",
+    "prefix": "bat",
+    "main_file": "BAt.lua",
+    "priority": 0,
+    "badge_colour": "4A6284",
+    "badge_text_colour": "B3E6F7",
+    "version": "1.0.0"
+}
