@@ -2,8 +2,9 @@ Blue Archive tarot skin
 
 Requires [Malverk](https://github.com/Eremel/Malverk) and [Steamodded](https://github.com/Steamodded/smods)
 
-<img width="1125" height="738" alt="Captura de pantalla 2026-01-04 041223" src="https://github.com/user-attachments/assets/e35a2780-2794-4a42-91ae-7661e8365f1c" />
-<img width="1128" height="737" alt="Captura de pantalla 2026-01-04 041237" src="https://github.com/user-attachments/assets/46319282-d622-453e-8e3a-b40c7d4810f7" />
+<img width="1111" height="517" alt="image" src="https://github.com/user-attachments/assets/51bd339c-fc8b-4652-ba38-f58200ba7e71" />
+<img width="1103" height="505" alt="image" src="https://github.com/user-attachments/assets/14b31125-7b25-4a9f-8445-1460b3db2c43" />
+
 
 Artist: [@shi0n_krbn](https://x.com/shi0n_krbn)
 
