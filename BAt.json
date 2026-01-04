@@ -11,5 +11,9 @@
     "priority": 0,
     "badge_colour": "4A6284",
     "badge_text_colour": "B3E6F7",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dependencies": [
+        "Balatro (>=1.0.1o)",
+        "malverk (>=1.1.3a)"
+    ]
 }
